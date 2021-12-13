@@ -1,0 +1,40 @@
+{
+    "tours": [
+        { "id": 1, "name": "Japan", "place_count": 10,  "country": "Japan", "photo": "/img/state1.png" },
+        { "id": 2, "name": "Bali", "place_count": 10,  "country": "Indonesia", "photo": "/img/state2.png" },
+        { "id": 3, "name": "Spain", "place_count": 10,  "country": "Barcelona", "photo": "/img/state3.png" },
+        { "id": 4, "name": "Japan", "place_count": 10,  "country": "Japan", "photo": "/img/state3.png" },
+        { "id": 5, "name": "Japan", "place_count": 10,  "country": "Japan", "photo": "/img/state3.png" }
+    ],
+    "explore": [
+        { "id": 1, "title": "Comfort Space", "rating": "4.91 (147)", "price": 210, "location": "Turkey, Mamaris", "rooms": 375, "radius": "1.2 km", "image": "/img/home.png" },
+        { "id": 2, "title": "Comfort Space", "rating": "4.91 (147)", "price": 210, "location": "Turkey, Mamaris", "rooms": 375, "radius": "1.2 km", "image": "/img/home2.png" },
+        { "id": 3, "title": "Comfort Space", "rating": "4.91 (147)", "price": 210, "location": "Turkey, Mamaris", "rooms": 375, "radius": "1.2 km", "image": "/img/home3.png" },
+        { "id": 4, "title": "Comfort Space", "rating": "4.91 (147)", "price": 210, "location": "Turkey, Mamaris", "rooms": 375, "radius": "1.2 km", "image": "/img/home4.png" },
+        { "id": 5, "title": "Comfort Space", "rating": "4.91 (147)", "price": 210, "location": "Turkey, Mamaris", "rooms": 375, "radius": "1.2 km", "image": "/img/home4.png" },
+        { "id": 6, "title": "Comfort Space", "rating": "4.91 (147)", "price": 210, "location": "Turkey, Mamaris", "rooms": 375, "radius": "1.2 km", "image": "/img/home4.png" }
+    ],
+    "cities": [
+        { "id": 1, "name": "Manila", "price": 250, "photo": "/img/tren1.png", "rating": "4.5 (36)" },
+        { "id": 2, "name": "San Francisco", "price": 250, "photo": "/img/tren2.png", "rating": "3.8 (116)" },
+        { "id": 3, "name": "Frankfurt main", "price": 250, "photo": "/img/tren3.png", "rating": "4.6 (98)" },
+        { "id": 4, "name": "Washington", "price": 250, "photo": "/img/tren4.png", "rating": "5 (3)" },
+        { "id": 5, "name": "Stockholm", "price": 250, "photo": "/img/tren5.png", "rating": "4.2 (36)" },
+        { "id": 6, "name": "Seattle", "price": 250, "photo": "/img/tren6.png", "rating": "4.8 (17)" }
+    ],
+    "hotels": [
+        { "id": 1, "name": "Гостиница Sahid Zarafshon", "rating": 4.0, "reviews": 7, "location": "Бухара, ул. М. Икбол, д. 4", "price": 58, "photo": "/img/zuich.png" },
+        { "id": 2, "name": "Гостиница Daniel Hill", "rating": 4.7, "reviews": 27, "location": "Ташкент, ул. Янги Куйлук, 18", "price": 75, "photo": "/img/zuich1.png" },
+        { "id": 3, "name": "Гостиница Wyndham Tashkent", "rating": 4.5, "reviews": 283, "location": "Ташкент, ул. Амир Тимур, д. 7/8", "price": 150, "photo": "/img/zuich2.png" }
+    ],
+    "bestSearch": [
+        { "id": 1, "name": "Batu, East Java", "img": "/img/best1.png", "destinetion": "86 Destinations"},
+        { "id": 2, "name": "Kuta", "img": "/img/best2.png", "destinetion": "86 Destinations"},
+        { "id": 3, "name": "Surabaya, East Java", "img": "/img/best3.png", "destinetion": "86 Destinations"},
+        { "id": 4, "name": "Malang, East Java", "img": "/img/best4.png", "destinetion": "186 Destinations"},
+        { "id": 5, "name": "Dieng, Central Java", "img": "/img/best4.png", "destinetion": "86 Destinations"},
+        { "id": 6, "name": "Nusa Dua, Lombok", "img": "/img/best6.png", "destinetion": "86 Destinations"},
+        { "id": 7, "name": "Bandung, West Java", "img": "/img/best7.png", "destinetion": "86 Destinations"},
+        { "id": 8, "name": "Wakatobi, Sumatera", "img": "/img/best1.png", "destinetion": "186 Destinations"}
+    ]
+}
